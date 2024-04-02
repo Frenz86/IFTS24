@@ -1,0 +1,47 @@
+🥇 Esercizio 1
+Dichiarare una variabile "numero_intero" e assegnargli un valore **intero**. Printare il tipo della variabile per conferma.
+
+numero_intero = 42
+print(type(numero_intero))
+
+🥇 Esercizio 2
+Dichiarare una variabile "numero_decimale" e assegnargli un valore **float**. Printare il tipo della variabile per conferma.
+
+numero_decimale = 3.14
+print(type(numero_decimale))
+
+🥇 Esercizio 3
+Creare una variabile "testo" e assegnargli una **stringa** contenente una frase. Printare il tipo della variabile per conferma.
+
+testo = "Questo è un testo di esempio"
+print(type(testo))
+
+🥇 Esercizio 4
+Creare una variabile "valore_booleano" e assegnargli un valore **booleano**. Printare il tipo della variabile per conferma.
+
+valore_booleano = True
+print(type(valore_booleano))
+
+🥇 Esercizio 5
+Creare una lista "numeri" contenente 5 numeri interi. Printare il tipo della variabile per conferma.
+
+numeri = [1, 2, 3, 4, 5]
+print(type(numeri))
+
+🥇 Esercizio 6
+Creare una lista "misti" contenente un numero intero, un numero float, una stringa e un valore booleano. Printare il tipo della variabile per conferma.
+
+misti = [42, 3.14, "testo", True]
+print(type(misti))
+
+🥇 Esercizio 7
+Creare una tupla "giorni_settimana" contenente i giorni della settimana come stringhe. Printare il tipo della variabile per conferma.
+
+giorni_settimana = ("Lunedì", "Martedì", "Mercoledì", "Giovedì", "Venerdì", "Sabato", "Domenica")
+print(type(giorni_settimana))
+
+🥇 Esercizio 8
+Creare un dizionario "informazioni_personali" contenente il tuo nome, cognome, età e città di residenza. Printare il tipo della variabile informazioni_personali.
+
+informazioni_personali = {"nome": "Mario", "cognome": "Rossi", "età": 27, "città": "Milano"}
+print(type(informazioni_personali))

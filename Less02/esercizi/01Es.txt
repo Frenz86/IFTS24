@@ -1,0 +1,34 @@
+🥇 Esercizio 1
+Dichiarare una variabile "nome" e assegnargli il tuo nome. Printare.
+
+
+🥇 Esercizio 2
+Dichiarare una variabile "eta" e assegnargli la tua età. Printare.
+
+
+🥇 Esercizio 3
+Dichiarare una variabile "pi" e assegnargli il valore di pi greco (3,14159). Printare.
+
+
+
+🥇 Esercizio 4
+Creare una variabile "lunghezza" e assegnargli un valore, quindi riassegnare la variabile a 15. Printare.
+
+
+🥇 Esercizio 5
+Creare una variabile "nome_completo" e assegnargli una stringa contenente il tuo nome e cognome. Printare.
+
+
+🥇 Esercizio 6
+Creare una variabile "eta_futura" e assegnargli il valore dell'età che avrai tra 10 anni (utilizzando la variabile età già esistente). Printare.
+
+
+🥇 Esercizio 7
+Creare delle variabili "nome", "cognome" ed "anno_di_nascita" ed assegnarle il valore dei valori. 
+Printare in un unico comando. Sovrascrivere tutte le variabili e ri-printare una seconda volta.
+
+
+
+🥇 Esercizio 8
+Creare una variabile `eta_attuale` e assegnargli il valore dell'età che hai attualmente, calcolandola in base all'anno corrente. 
+Printare `eta_attuale`
