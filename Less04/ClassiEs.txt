@@ -1,0 +1,4 @@
+# Creare una classe "Persona" con attributi nome e età:
+# Aggiungere un metodo alla classe "Persona" per stampare l'informazione completa:
+# Creare una classe "Libro" con attributi titolo e autore:
+# Creare una classe "Cerchio" con attributo raggio e metodi per calcolare area e circonferenza:

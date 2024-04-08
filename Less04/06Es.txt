@@ -1,0 +1,38 @@
+🥇 Esercizio 1
+Scrivere un programma che utilizzi un loop for per stampare ogni elemento di una lista.
+
+
+🥇 Esercizio 2
+Scrivere un programma che utilizzi un loop for per stampare tutti i numeri da 1 a 10.
+
+
+🥇 Esercizio 3
+Scrivere un programma che utilizzi un loop for per sommare tutti i numeri in una lista.
+
+
+🥇 Esercizio 4
+Scrivere un programma che utilizzi un loop for per stampare tutti i numeri pari da 1 a 20.
+
+
+🥇 Esercizio 5
+Scrivere un programma che utilizzi un loop for per stampare tutte le lettere di una stringa.
+
+
+🥇 Esercizio 6
+Scrivere un programma che utilizzi un loop for per stampare tutte le chiavi di un dizionario.
+
+
+🥇 Esercizio 7
+Scrivere un programma che utilizzi un loop for per stampare tutte le coppie chiave-valore di un dizionario.
+
+
+🥇 Esercizio 8
+Scrivere un programma che utilizzi un loop for per stampare tutte le lettere di ogni stringa in una lista.
+
+
+🥇 Esercizio 9
+Scrivere un programma che utilizzi un loop for per contare quante volte una lettera compare in una stringa.
+
+
+🥇 Esercizio 10
+Scrivere un programma che utilizzi un loop for per calcolare la media di una lista di numeri.
