@@ -11,7 +11,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less04/07Sol.ipynb)
 
 
-5. (2024/04/10)DG 7 ore: [Numpy ](pdf/0Numpy.pdf)
+5. (2024/04/10)DG 7 ore: [Numpy ](pdf/0Numpy.pdf) Pandas Theory
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less05/01Pandas_theory.ipynb)
+
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
