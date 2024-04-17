@@ -21,6 +21,12 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less07/01Matplotlib-second.ipynb) Matplotlib Iwidget Distribution
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less07/Distribuzioni_scipy.ipynb) Outlier
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less07/Outlier.ipynb)
+[Train Test Split ](pdf/LR_Train_test_split.pdf)
+Intro Regression
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less07/02_IntroRegression.ipynb)
+
+
+
 
 
 
