@@ -14,7 +14,7 @@
 5. (2024/04/10)DG 7 ore: [Numpy ](pdf/0Numpy.pdf) Pandas Theory
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less05/01Pandas_theory.ipynb)
 
-6. (2024/04/12)DG 7 ore: Es Pandas
+6. (2024/04/12)DG 7 ore: Intro Matplotlib
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less06/02_short_Matplotlib.ipynb)
 
 7. (2024/04/17)DG 7 ore: Matplotlib Plot
