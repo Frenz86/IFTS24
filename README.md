@@ -26,7 +26,7 @@ Intro Regression
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less07/02_IntroRegression.ipynb)
 
 8. (2024/04/22)DG 7 ore: EDA introduction with Seaborn 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less08/06.3Iris_EDA.ipynb) Correlazione [Teoria Correlazione ](pdf/LR_Train_test_split.pdf)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less08/06.3Iris_EDA.ipynb) Correlazione [Teoria Correlazione ](pdf/02.1_Correlazione.pdf)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less08/07.2_CorrMatrix.ipynb)
 Tips to solve
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less08/42_to_solve_tips.ipynb)
