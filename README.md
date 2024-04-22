@@ -30,7 +30,8 @@ Intro Regression
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less08/07.2_CorrMatrix.ipynb)
 Tips to solve
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less08/42_to_solve_tips.ipynb)
-
+Tips soluzione with EDA
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less08/42_solut_tips.ipynb)
 
 
 
