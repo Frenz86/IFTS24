@@ -33,10 +33,12 @@ Tips to solve
 Tips soluzione with EDA
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less08/42_solut_tips.ipynb)
 
-8. (2024/04/24)DG 7 ore: Error in Regression
+9. (2024/04/24)DG 7 ore: Error in Regression
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less09/03Error_regression_savemodel.ipynb)
  Boston Dataset
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less09/04boston_housing.ipynb)
+Intro Classification with Iris Dataset
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less09/10.0Iris.ipynb)
 
 
 
