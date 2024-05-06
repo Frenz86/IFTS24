@@ -40,7 +40,9 @@ Tips soluzione with EDA
 Intro Classification with Iris Dataset
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less09/10.0Iris.ipynb)
 
-
+10. (2024/05/06)DG 7 ore: [Conf. Matrix ](pdf/02_Conf_matrix.pdf) - [AUC](pdf/03_AUC_ROC.pdf) Iris Confusion Matrix
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less10/10.3IrisConf.ipynb) Diabetic - CM + ROC AUC
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less10/10.4DiabeticCM-ROC.ipynb)
 
 
 
