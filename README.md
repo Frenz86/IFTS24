@@ -45,9 +45,9 @@ Intro Classification with Iris Dataset
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less10/10.4DiabeticCM-ROC.ipynb)
 
 11. (2024/05/08)DG 7 ore: normalizzazione - standardizzazione 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less10/09.3_Normalizzazione_standardizz.ipynb) Nan - Null
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less10/10.1NAN_NULL.ipynb) Pandas Dummies - OHE One Hot Encoding
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less10/10.2Categorical_variable.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less11/09.3_Normalizzazione_standardizz.ipynb) Nan - Null
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less11/10.1NAN_NULL.ipynb) Pandas Dummies - OHE One Hot Encoding
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less11/10.2Categorical_variable.ipynb)
 
 
 
