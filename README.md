@@ -50,6 +50,9 @@ Intro Classification with Iris Dataset
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less11/10.2Categorical_variable.ipynb)
 Soluzione Penguins
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less11/Intro_penguin.ipynb)
+ [Overfitting ](pdf/overfitting.pdf) Decision Trees -  [DT Theory ](pdf/02_Decision_tree.pdf)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less11/60_DecisionTree.ipynb) 
+
 
 
 
