@@ -54,11 +54,12 @@ Soluzione Penguins
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less11/60_DecisionTree.ipynb) 
 
 12. (2024/05/13)DG 7 ore: Random Forest 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less12/69_Random_Forest_Approach.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less12/69_Random_Forest_Approach.ipynb) [ML-comparison ](pdf/ML-Comparison.pdf)
  Titanic
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less12/1Titanic_complete.ipynb) Intro Pipeline
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less12/2Intro_Pipeline.ipynb) Pipeline Titanic
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less12/3Titanic_pipe.ipynb) 
+
 
 
 
