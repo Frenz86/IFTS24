@@ -60,6 +60,9 @@ Soluzione Penguins
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less12/2Intro_Pipeline.ipynb) Pipeline Titanic
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less12/3Titanic_pipe.ipynb) 
 
+12.1 TEMPLATE REGRESSIONE: Part1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Template/03TemplateRegPipe.ipynb) Part2 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Template/04TemplateRegPipe.ipynb) 
+
+12.2 TEMPLATE CLASSIFICAZIONE: Part1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Template/01TemplateClassPipe.ipynb) Part2 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Template/02TemplateClassPipe.ipynb)
 
 
 
