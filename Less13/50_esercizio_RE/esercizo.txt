@@ -1,0 +1,11 @@
+!wget https://frenzy86.s3.eu-west-2.amazonaws.com/IFAO/email_re.xlsx
+
+dalla colonna content estrapolare le mail:
+
+1 euro ogni mail, quanto costa la campagna pubblicitaria?
+##################################################
+
+!wget https://frenzy86.s3.eu-west-2.amazonaws.com/fav/ai-machine/nlp/reviews_feb2019.csv
+
+["Review Text"],star rating, review len
+-dropna

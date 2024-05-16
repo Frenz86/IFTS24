@@ -64,9 +64,7 @@ Soluzione Penguins
 
 12.2 TEMPLATE CLASSIFICAZIONE: Part1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Template/01TemplateClassPipe.ipynb) Part2 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Template/02TemplateClassPipe.ipynb)
 
-
-
-
+13 Intro REGEX: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less13/Intro_re.ipynb)
 
 
 
