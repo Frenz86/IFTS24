@@ -64,8 +64,11 @@ Soluzione Penguins
 
 12.2 TEMPLATE CLASSIFICAZIONE: Part1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Template/01TemplateClassPipe.ipynb) Part2 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Template/02TemplateClassPipe.ipynb)
 
-13. (2024/05/16)DG 7 ore: Intro REGEX: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less13/Intro_re.ipynb)
+13. (2024/05/16)DG 7 ore: Intro REGEX: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less13/Intro_re.ipynb) Intro SpaCy
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less13/10.1_SpaCy.ipynb)
 
+14. (2024/05/21)DG 7 ore: Es regex:[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less14/0Pandas_regex.ipynb) esercizio to solve Twitter clean
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less14/es0regex.ipynb)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
