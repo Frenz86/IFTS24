@@ -73,6 +73,8 @@ Soluzione Penguins
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less14/1NLP_MultiClassification_20newsgroups.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less14/2NLP_BClassification_BOW_tosolve.ipynb)
 
+14.2 TEMPLATE TEXT CLASSIF: Part1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Template/05TemplateNLPPipe.ipynb) Part2 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Template/06TemplateNLPPipe.ipynb)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com [[LinkedIn]](https://www.linkedin.com/in/daniele-grotti/)
