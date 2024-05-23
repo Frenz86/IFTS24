@@ -78,6 +78,7 @@ WordCloud
 
 15 (2024/05/23)DG 7 ore: GENSIM word2Vec: [Theory W2v ](pdf/NLP PART1.pdf)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less15/15.0_Word2vec_Gensim.ipynb) 
+stopwords-ITA
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less15/15.1_ITA_stopwords.ipynb) 
 
 
