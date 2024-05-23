@@ -76,6 +76,9 @@ WordCloud
 
 14.1 TEMPLATE TEXT CLASSIF: Part1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Template/05TemplateNLPPipe.ipynb) Part2 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Template/06TemplateNLPPipe.ipynb)
 
+15 (2024/05/23)DG 7 ore: GENSIM word2Vec: [Theory W2v ](pdf/NLP PART1.pdf)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less15/11.1_Word2vec_Gensim.ipynb) 
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com [[LinkedIn]](https://www.linkedin.com/in/daniele-grotti/)
