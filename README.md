@@ -82,6 +82,7 @@ WordCloud
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less15/15.1_ITA_stopwords.ipynb) 
 
 
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com [[LinkedIn]](https://www.linkedin.com/in/daniele-grotti/)
