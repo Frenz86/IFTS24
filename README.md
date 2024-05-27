@@ -62,7 +62,7 @@ Soluzione Penguins
 
 12.1 TEMPLATE REGRESSIONE: Part1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Template/03TemplateRegPipe.ipynb) Part2 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Template/04TemplateRegPipe.ipynb) 
 
-12.2 TEMPLATE CLASSIFICAZIONE: Part1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Template/01TemplateClassPipe.ipynb) Part2 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Template/02TemplateClassPipe.ipynb)
+12.2 TEMPLATE CLASSIFICAZIONE: Part1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Template/01TemplateClassPipeMulti.ipynb) Part2 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Template/02TemplateClassPipeMulti.ipynb)
 
 13. (2024/05/16)DG 7 ore: Intro REGEX: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less13/Intro_re.ipynb) Intro SpaCy
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less13/10.1_SpaCy.ipynb)
@@ -78,7 +78,7 @@ WordCloud
 
 15 (2024/05/23)DG 7 ore: GENSIM word2Vec: [Theory W2v ](pdf/NLP PART1.pdf)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less15/15.0_Word2vec_Gensim.ipynb) 
-stopwords-ITA
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/IFTS24/blob/main/Less15/15.1_ITA_stopwords.ipynb) 
 
 
