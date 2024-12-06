@@ -1,0 +1,1 @@
+pulire il dataset wine, convertendo i numeri in maniera corretta ed estrapolando come colonna la tipologia del vino.

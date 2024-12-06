@@ -68,7 +68,7 @@ st.image(image, caption='I am the one who knocks!!!',width=400)
 # ### spiaggia
 from PIL import Image
 
-image = Image.open('spiaggia.jpg')
+image = Image.open('thug.jpg')
 st.image(image, caption='Mare mare!!!',width=860)
 
 # # # ######################################################
